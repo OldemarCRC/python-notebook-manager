@@ -28,8 +28,11 @@ The notebook is saved automatically when the user chooses to quit.
 Usage:
 Ensure that Python is installed on your system.
 You can download it for free from this link https://www.python.org/downloads/
+
 Run the program by executing the script in the command promt (terminal):
+
 python notebook_program.py or py notebook_program.py
+
 Run the program and follow the on-screen menu to perform notebook operations.
 Note:
 This program is designed to be a comprehensive exercise, implementing concepts learned throughout the procedural programming course.
