@@ -4,20 +4,20 @@ Notebook manager implemented in Python with editing, deletion, and storage capab
 This Python program implements a simple notebook using a list data structure for note manipulation. It utilizes the pickle module to save and load data in a bitwise mode. The notebook has the following features:
 
 Read the Notebook (Option 1):
-
 Displays existing notes stored in the notebook.
+
 Add Note (Option 2):
-
 Allows the user to add a new note with a timestamp.
+
 Edit a Note (Option 3):
-
 Enables the user to edit an existing note by selecting its index in the list.
+
 Delete a Note (Option 4):
-
 Permits the deletion of a note by selecting its index in the list.
-Save and Quit (Option 5):
 
+Save and Quit (Option 5):
 Saves the current notebook to a file ("notebook.dat") and exits the program.
+
 Instructions:
 When the program starts, it checks for a notebook data file ("notebook.dat").
 If the file exists, it loads the existing notebook; otherwise, it creates a new one.
