@@ -1,4 +1,4 @@
-# python-notebook-manager
+# Python Notebook Manager
 Notebook manager implemented in Python with editing, deletion, and storage capabilities in a binary format.
 
 ## Version 2.0: Object-Oriented Implementation
